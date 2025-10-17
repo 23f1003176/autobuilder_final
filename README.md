@@ -17,6 +17,7 @@ It receives structured JSON task requests (from instructors or automated systems
 
 ## 🧩 Project Structure
 
+```bash
 autobuilder/
 │
 ├── main.py # Main FastAPI app - handles instructor requests
@@ -27,6 +28,7 @@ autobuilder/
 │
 ├── requirements.txt
 └── .env # Contains API keys and secrets (not uploaded to GitHub)
+```
 
 ---
 
