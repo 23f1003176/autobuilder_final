@@ -89,6 +89,6 @@ Invoke-RestMethod -Method POST "http://127.0.0.1:8000/api-endpoint" `
 
 ## 🎯 Expected Result
 
-✅ A new GitHub repository (e.g. payment-form-site)
-✅ GitHub Pages live site (e.g. `https://username.github.io/payment-form-site/`)
-✅ A working web app generated automatically from AI.
+-✅ A new GitHub repository (e.g. payment-form-site)
+-✅ GitHub Pages live site (e.g. `https://username.github.io/payment-form-site/`)
+-✅ A working web app generated automatically from AI.
